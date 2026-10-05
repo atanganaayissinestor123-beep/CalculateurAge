@@ -7,7 +7,7 @@
     Title="CalculateurAge">
 
     <ShellContent
-        Title="Home"
+        Title="Calculateur"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
